@@ -1,0 +1,9 @@
+What did I work on in the last three days?
+    - Add classes for testing in my responsibility
+
+What do I plan to work in the next three days?
+    - Complete the Unit tests
+    - Write new classes that we want
+
+Am I blocked on anything?
+    - Nothing

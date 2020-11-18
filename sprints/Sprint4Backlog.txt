@@ -1,0 +1,39 @@
+//Sprint 3 Backlog.
+July 17st to July 23th
+
+User Stories from Product Backlog that we will address in this sprint:
+a) As a user, I can redirect stdout to overwrite files so that I can check the output later.
+b) As a user, I can redirect stdout to append to files so that I can check the merged output later.
+c) As a user, I can remove directories from file system so that I can get the file system organized.
+d) As a user, I can create multiple directories at one so that I can organize my file system faster.
+e) As a user, I can recursively display the content of files and directories so that I can know what is inside the directory.
+f) As a user, I can move file to a new location so that I can have a cleaner file system.
+
+Specific tasks to be accomplished:
+a-1. (Redirection) Write base code to redirect stdout of commands to files
+a-2. (Redirection) Write base code to throw error if fail to access or create file
+a-3. (Redirection) Implement feature to ignore empty stdout
+b-1. (Redirection) Write code to append stdout to files
+c-1. (Rm) Write code to Remove directory
+c-2. (Rm) Write code to throw error when cannot remove target directory
+c-3. (Rm) Write code to throw error when target is not directory
+d-1. (Mkdir) Implement feature tco create multiple directory at one time
+d-2. (Mkdir) Write code to throw error when directory name is incorrect
+e-1. (Ls) Write code to make Ls recursively display the given directory
+f-1. (Mv) Implement Mv to make it move files to new locations
+f-2. (Mv) Write code to make Mv throw error if the source path name is not valid
+f-3. (Mv) Write code to make Mv throw error if the target path name is not valid
+
+These tasks are assigned as follows:
+
+User: Sihao Chen
+Tasks: f-1, f-2, f-3
+
+User: Yining Wang
+Tasks: d-1, d-2, e-1
+
+User: Jiayu Lu
+Tasks: c-1, c-2, c-3
+
+User: Ziheng Zhuang
+Tasks: a-1, a-2, a-3, b-1

@@ -1,0 +1,8 @@
+What did I work on in the last three days?
+    - Write test of commands that responsible for me
+
+What do I plan to work in the next three days?
+    - Complete the Unit tests that responsible for me
+
+Am I blocked on anything?
+    - Nothing

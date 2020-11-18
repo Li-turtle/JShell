@@ -1,0 +1,13 @@
+Class name: Cat
+
+Parent class: Command
+
+Subclasses:
+
+Responsibilities:
+* Display the contents of FILE or FILEs
+
+Collaborators:
+* ArityMismatchException
+* FileSystem
+* IO

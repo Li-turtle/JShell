@@ -1,0 +1,11 @@
+What did I work on in the last three days?
+    - finish all the targets which originally set for sprint 1
+        - finish Mkdir and exception manipulations
+    - write three exception for JShell
+
+What do I plan to work in the next three days?
+    - finish Pushed
+    - review and correct crcCards
+
+Am I blocked on anything?
+    - Nothing

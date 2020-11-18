@@ -1,0 +1,12 @@
+Class name: ArgParser
+
+Parent class:
+
+Subclasses:
+
+Responsibilities:
+* Validate argument string
+* Know string content
+
+Collaborators:
+* InvalidFormatException

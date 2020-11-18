@@ -1,0 +1,52 @@
+//Sprint 1 Backlog.
+June 17th to June 23rd
+
+
+User Stories from Product Backlog that we will address in this sprint:
+a) As a user, I can enter commands so that I can operate this program
+b) As a user, I can see the error of my input if the input is invalid so that I can modify my command
+c) As a user, I can exit the shell so that I can leave the program
+d) As a user, I can let shell speak the text so that I can hear the audio of that text
+e) As a user, I can create directories so that I can have new directories to store files
+
+Specific tasks to be accomplished:
+a-1. Review and improve CRC card
+b-1. (JShell) Write the base code to split commands and its arguments
+b-2. (JShell) Implement the structure to distribute commands to its corresponding class
+b-3. (JShell) Implement the basic structure to deal with invalid arguments
+b-4. (JShell) Implement code to hold current directory
+c-1. (Command) Create parent class for all commands
+d-1. (Quit) Implement the Quit class
+e-1. (Speak) Create base code for speak class
+e-2. (Speak) Make speak work given command line arguments
+e-3. (Speak) Make speak work from standard input
+e-4. (Speak) Let speak work properly under invalid input
+f-1. (File) Create base class File for Directory & RegularFile
+f-2. (Directory) Create Directory class to hold a list of File
+f-3. (RegularFile) Create RegularFile class to hold contents
+g-1. (Mkdir) Write code to create new directory in relative path
+g-2. (Mkdir) Write code to create new directory in absolute path
+h-1. (FileNavigator) Write class to navigate file given path string
+h-2. (FileNavigator) Write code to validate if a given string is a valid File
+h-3. (FileNavigator) Write code to validate if a given file is a valid Directory
+h-4. (FileNavigator) Write code to validate if a given file is a valid RegularFile
+i-1. (WorkingDirectory) Write code to hold current directory
+j-1. (IO) Write code to encapsulate input/output
+k-1. (ArgParser) Write code to recognize arguments
+l-1. (ArityMismatchException) Write code to generate exception of invalid number of arguments
+l-2. (FileExistException) Write code to generate exception of file repetition
+l-3. (FileNotExistException) Write code to generate exception of targeting file does not exist
+
+These tasks are assigned as follows:
+
+User: Sihao Chen
+Tasks: g-1, g-2, c-1, b-3, b-4, l-1, l-2, l-3
+
+User: Yining Wang
+Tasks: h-1, h-2, h-3, h-4, d-1
+
+User: Jiayu Lu
+Tasks: a-1, e-1, e-2, e-3, e-4
+
+User: Ziheng Zhuang
+Tasks: f-1, f-2, f-3, b-1, b-2, i-1, j-1, k-1

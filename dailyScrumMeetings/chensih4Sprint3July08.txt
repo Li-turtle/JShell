@@ -1,0 +1,10 @@
+What did I work on in the last three days?
+    - fixed various bugs for the whole program
+    - optimized the codes and format of exceptions
+    - corrected crcCards
+
+What do I plan to work in the next three days?
+    - Nothing
+
+Am I blocked on anything?
+    - Nothing

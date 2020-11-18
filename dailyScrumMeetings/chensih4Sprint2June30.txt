@@ -1,0 +1,10 @@
+What did I work on in the last three days?
+    - optimize the code for the classes
+        - change Command class into abstract class
+    - fix bugs for Mkdir
+
+What do I plan to work in the next three days?
+    - start working on Echo
+
+Am I blocked on anything?
+    - Nothing

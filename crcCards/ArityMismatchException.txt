@@ -1,0 +1,10 @@
+Class name: ArityMismatchException
+
+Parent class: Exception
+
+Subclasses:
+
+Responsibilities:
+* The exception of invalid number of arguments
+
+Collaborators:

@@ -1,0 +1,43 @@
+User Stories                                                    Time estimate
+
+As a user, I can redirect stdout to overwrite files             3h
+so that I can check the output later.
+
+As a user, I can redirect stdout to append to files
+so that I can check the merged output later                     4h
+
+As a user, I can remove directories from file system            5h
+so that I can get the file system organized
+
+As a user, I can create multiple directories at one             1h
+so that I can organize my file system faster
+
+As a user, I can recursively display the content of             6h
+files and directories so that I can know what is inside
+the directory
+
+As a user, I can move file to a new location                    4h
+so that I can have a cleaner file system
+
+As a user, I can copy file to a new location
+so that I don't have to delete the old file in some cases       5h
+
+As a user, I can see the error message when displaying          4h
+the content given an incorrect filename so that I can
+change to the correct filename quickly
+
+As a user, I can download file from the internet                6h
+so that I can communicate with the internet
+
+As a user, I can save my workspace to a real computer           7h
+so that I can come back later
+
+As a user, I retrieve my old workspace back                     4h
+so that I can continue my work on JShell
+
+As a user, I can find files given patterns so that              7h
+I can quickly get the path of a filename
+
+As a user, I can list the directory structure of the current    9h
+working directory so that I can have a better concept of
+what my file system looks like

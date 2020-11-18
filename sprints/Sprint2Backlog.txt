@@ -1,0 +1,41 @@
+//Sprint 2 Backlog.
+June 24th to June 30rd
+
+
+User Stories from Product Backlog that we will address in this sprint:
+a) As a user, I can change the working directory so that I can work in a different directory
+b) As a user, I can list the content of directories & files so that I can know what files I have
+c) As a user, I can see the current working directory so that I can know where I am
+d) As a user, I can store the current working directory so that I can come back later
+e) As a user, I can retrieve directory I saved so that I can work in the directory I saved
+
+Specific tasks to be accomplished:
+a-1. (Cd) Write base code to change the working directory to a relative path
+a-2. (Cd) Write code to change the working directory to a absolute path
+a-3. (Cd) Write code to throw exception when path is invalid
+b-1. (Ls) Implement class to list content in the current working directory
+b-2. (Ls) Write code to list contents of the directory in relative path
+b-3. (Ls) Write code to list contents of the directory in absolute path
+b-4. (Ls) Write code to print the file name
+c-1. (Pwd) Write code to print the current working directory path
+d-1. (Pushd) Write code to store current directory to stack
+d-2. (Pushd) Write code to switch to new directory in relative path
+d-3. (Pushd) Write code to switch to new directory in absolute path
+d-4. (Pushd) Throw exception if the path of new directory is invalid
+e-1. (Popd) Write code retrieve the former directory
+e-2. (Popd) Write code to change to the former directory
+e-3. (Popd) Write code to throw exception if the stack is empty
+
+These tasks are assigned as follows:
+
+User: Sihao Chen
+Tasks: d-1, d-2, d-3, d-4
+
+User: Yining Wang
+Tasks: a-1, a-2, a-3
+
+User: Jiayu Lu
+Tasks: e-1, e-2, e-3
+
+User: Ziheng Zhuang
+Tasks: c-1, b-1, b-2, b-3, b-4

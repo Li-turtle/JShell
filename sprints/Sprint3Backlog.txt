@@ -1,0 +1,38 @@
+//Sprint 3 Backlog.
+July 1st to July 8th
+
+
+User Stories from Product Backlog that we will address in this sprint:
+a) As a user, I can see the command history so that I can know what I have done so far
+b) As a user, I can see the content of files so that I know what I stored in these files
+c) As a user, I can write contents to files so that I can store messages
+d) As a user, I can append messages to files so that I can add messages
+e) As a user, I can see the usage of each command so that I know how to use the command
+
+
+Specific tasks to be accomplished:
+a-1. (History) Write base code to display complete command history
+a-2. (History) Write code to display given command history
+a-3. (History) Implement feature to respond to incorrect input history size input
+b-1. (Cat) Implement class to display content of files and concat them together
+b-2. (Cat) Implement class to respond to nonexisting file or incorrect file type
+c-1. (Echo) Implement class to write content to file
+c-2. (Echo) Write code to respond to write to directory
+d-1. (Echo) Implement class to append content to file
+d-2. (Echo) Write code to respond to append to directory
+e-1. (Man) Implement class to display documentation page for commands
+e-2. (Man) Write code to deal with incorrect argument number
+
+These tasks are assigned as follows:
+
+User: Sihao Chen
+Tasks: c-1, c-2, d-1, d-2
+
+User: Yining Wang
+Tasks: a-1, a-2, a-3
+
+User: Jiayu Lu
+Tasks: b-1, b-2
+
+User: Ziheng Zhuang
+Tasks: e-1, e-2

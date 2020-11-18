@@ -1,0 +1,10 @@
+What did I work on in the last three days?
+    - finish Echo class
+    - write InvalidFileException
+
+What do I plan to work in the next three days?
+    - wait Ziheng Zhuang change the implementation of IO class and change the code of mine correctly
+    - check and correct crcCards
+
+Am I blocked on anything?
+    - Nothing

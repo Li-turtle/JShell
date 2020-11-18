@@ -1,0 +1,10 @@
+What did I work on in the last three days?
+    - finish the initial version of Command and Mkdir
+
+What do I plan to work in the next three days?
+    - finish the parts for various exceptions (for Mkdir)
+        - exceptions on invalid arguments/data structure and the like
+    - replenish the crcCards
+
+Am I blocked on anything?
+    - Need unified Exceptions for our group to continue on the exceptions part for JShell, Command, etc.

@@ -1,0 +1,8 @@
+What did I work on in the last three days?
+    - Finish Mv class
+
+What do I plan to work in the next three days?
+    - Write JUnit Test that responsible to me
+
+Am I blocked on anything?
+    - Nothing

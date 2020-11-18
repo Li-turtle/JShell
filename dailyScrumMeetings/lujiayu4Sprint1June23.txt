@@ -1,0 +1,10 @@
+What did I work on in the last three days?
+    - fix IllegalThread error
+    - make speak works with teammmates' design
+
+What do I plan to work in the next three days?
+    - test and debug what I did for sprint 1
+    -write pop class
+
+Am I blocked on anything?
+    - Nothing

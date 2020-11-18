@@ -1,0 +1,12 @@
+What did I work on in the last three days?
+    - figure out how to use free TTS library
+    - using free TTS to speak a single string
+    - make speak able to speak multiple lines and treat QUIT as a end mark
+
+What do I plan to work in the next three days?
+    - test speak command
+    - read teammates' code and figure how their code works
+    
+
+Am I blocked on anything?
+    - create a good Crccards for JShell

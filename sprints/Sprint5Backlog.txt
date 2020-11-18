@@ -1,0 +1,38 @@
+//Sprint 3 Backlog.
+July 24th to August 2nd
+
+User Stories from Product Backlog that we will address in this sprint:
+a) As a user, I can copy file to a new location so that I don't have to delete the old file in some cases
+b) As a user, I can see the error message when displaying the content given an incorrect filename so that I can change to the correct filename quickly
+c) As a user, I can download file from the internet so that I can communicate with the internet
+d) As a user, I can save my workspace to a real computer so that I can come back later
+e) As a user, I retrieve my old workspace back so that I can continue my work on JShell
+f) As a user, I can find files given patterns so that I can quickly get the path of a filename
+g) As a user, I can list the directory structure of the current working directory so that I can have a better concept of what my file system looks like
+
+Specific tasks to be accomplished:
+a-1. (Cp) Write code to copy files to new locations.
+a-2. (Cp) Write code to throw exception when file does not exist
+b-1. (Cp) Write code to throw exception when filename is invalid
+c-1. (Curl) Write code to download content from the internet
+c-2. (Curl) Write code to throw exception when file on the internet does not exist
+d-1. (Save) Write code to save work space to the real computer
+d-2. (Save) Write code to throw error when cannot save workspace to the real computer
+e-1. (Load) Write code to retireve work space from the real computer
+e-2. (Load) Write code to throw exception when cannot load work space
+f-1. (Find) Write code to find files given filename
+g-1. (Tree) Write code to list the tree structure of the directory
+
+These tasks are assigned as follows:
+
+User: Sihao Chen
+Tasks: g-1, f-1
+
+User: Yining Wang
+Tasks: c-1, c-2, d-1, d-2
+
+User: Jiayu Lu
+Tasks: e-1, e-2
+
+User: Ziheng Zhuang
+Tasks: a-1, a-2, b-1

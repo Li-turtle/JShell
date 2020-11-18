@@ -1,0 +1,9 @@
+What did I work on in the last three days?
+    - finish class Pushd
+    - design a new logo for JShell
+
+What do I plan to work in the next three days?
+    - review and correct crcCards
+
+Am I blocked on anything?
+    - Nothing
